@@ -2,430 +2,430 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hba.sid.one/it/posts/</loc>
+    <loc>./it/posts/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://hba.sid.one/de-de/posts/"
+                href="./de-de/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://hba.sid.one/fr-fr/posts/"
+                href="./fr-fr/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://hba.sid.one/posts/"
+                href="./posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hba.sid.one/pt-br/posts/"
+                href="./pt-br/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://hba.sid.one/ru-ru/posts/"
+                href="./ru-ru/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://hba.sid.one/it/posts/"
+                href="./it/posts/"
                 />
   </url><url>
-    <loc>https://hba.sid.one/it/</loc>
+    <loc>./it/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://hba.sid.one/de-de/"
+                href="./de-de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://hba.sid.one/"
+                href="./"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://hba.sid.one/fr-fr/"
+                href="./fr-fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hba.sid.one/pt-br/"
+                href="./pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://hba.sid.one/ru-ru/"
+                href="./ru-ru/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://hba.sid.one/it/"
+                href="./it/"
                 />
   </url><url>
-    <loc>https://hba.sid.one/it/posts/table-of-content/</loc>
+    <loc>./it/posts/table-of-content/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://hba.sid.one/de-de/posts/table-of-content/"
+                href="./de-de/posts/table-of-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://hba.sid.one/fr-fr/posts/table-of-content/"
+                href="./fr-fr/posts/table-of-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hba.sid.one/pt-br/posts/table-of-content/"
+                href="./pt-br/posts/table-of-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://hba.sid.one/posts/table-of-content/"
+                href="./posts/table-of-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://hba.sid.one/ru-ru/posts/table-of-content/"
+                href="./ru-ru/posts/table-of-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://hba.sid.one/it/posts/table-of-content/"
+                href="./it/posts/table-of-content/"
                 />
   </url><url>
-    <loc>https://hba.sid.one/it/posts/math-typesetting/</loc>
+    <loc>./it/posts/math-typesetting/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://hba.sid.one/de-de/posts/math-typesetting/"
+                href="./de-de/posts/math-typesetting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://hba.sid.one/posts/math-typesetting/"
+                href="./posts/math-typesetting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://hba.sid.one/fr-fr/posts/math-typesetting/"
+                href="./fr-fr/posts/math-typesetting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hba.sid.one/pt-br/posts/math-typesetting/"
+                href="./pt-br/posts/math-typesetting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://hba.sid.one/ru-ru/posts/math-typesetting/"
+                href="./ru-ru/posts/math-typesetting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://hba.sid.one/it/posts/math-typesetting/"
+                href="./it/posts/math-typesetting/"
                 />
   </url><url>
-    <loc>https://hba.sid.one/it/posts/markdown-syntax/</loc>
+    <loc>./it/posts/markdown-syntax/</loc>
     <lastmod>2023-02-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hba.sid.one/pt-br/posts/markdown-syntax/"
+                href="./pt-br/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://hba.sid.one/fr-fr/posts/markdown-syntax/"
+                href="./fr-fr/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://hba.sid.one/de-de/posts/markdown-syntax/"
+                href="./de-de/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://hba.sid.one/posts/markdown-syntax/"
+                href="./posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://hba.sid.one/ru-ru/posts/markdown-syntax/"
+                href="./ru-ru/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://hba.sid.one/it/posts/markdown-syntax/"
+                href="./it/posts/markdown-syntax/"
                 />
   </url><url>
-    <loc>https://hba.sid.one/it/posts/rich-content/</loc>
+    <loc>./it/posts/rich-content/</loc>
     <lastmod>2023-02-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hba.sid.one/pt-br/posts/rich-content/"
+                href="./pt-br/posts/rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://hba.sid.one/fr-fr/posts/rich-content/"
+                href="./fr-fr/posts/rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://hba.sid.one/de-de/posts/rich-content/"
+                href="./de-de/posts/rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://hba.sid.one/posts/rich-content/"
+                href="./posts/rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://hba.sid.one/ru-ru/posts/rich-content/"
+                href="./ru-ru/posts/rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://hba.sid.one/it/posts/rich-content/"
+                href="./it/posts/rich-content/"
                 />
   </url><url>
-    <loc>https://hba.sid.one/it/posts/placeholder-text/</loc>
+    <loc>./it/posts/placeholder-text/</loc>
     <lastmod>2023-02-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://hba.sid.one/de-de/posts/placeholder-text/"
+                href="./de-de/posts/placeholder-text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://hba.sid.one/posts/placeholder-text/"
+                href="./posts/placeholder-text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://hba.sid.one/fr-fr/posts/placeholder-text/"
+                href="./fr-fr/posts/placeholder-text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hba.sid.one/pt-br/posts/placeholder-text/"
+                href="./pt-br/posts/placeholder-text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://hba.sid.one/ru-ru/posts/placeholder-text/"
+                href="./ru-ru/posts/placeholder-text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://hba.sid.one/it/posts/placeholder-text/"
+                href="./it/posts/placeholder-text/"
                 />
   </url><url>
-    <loc>https://hba.sid.one/it/tags/emoji/</loc>
+    <loc>./it/tags/emoji/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://hba.sid.one/tags/emoji/"
+                href="./tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://hba.sid.one/de-de/tags/emoji/"
+                href="./de-de/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://hba.sid.one/fr-fr/tags/emoji/"
+                href="./fr-fr/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hba.sid.one/pt-br/tags/emoji/"
+                href="./pt-br/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://hba.sid.one/ru-ru/tags/emoji/"
+                href="./ru-ru/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://hba.sid.one/it/tags/emoji/"
+                href="./it/tags/emoji/"
                 />
   </url><url>
-    <loc>https://hba.sid.one/it/posts/emoji-support/</loc>
+    <loc>./it/posts/emoji-support/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hba.sid.one/pt-br/posts/emoji-support/"
+                href="./pt-br/posts/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://hba.sid.one/de-de/posts/emoji-support/"
+                href="./de-de/posts/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://hba.sid.one/posts/emoji-support/"
+                href="./posts/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://hba.sid.one/fr-fr/posts/emoji-support/"
+                href="./fr-fr/posts/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://hba.sid.one/ru-ru/posts/emoji-support/"
+                href="./ru-ru/posts/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://hba.sid.one/it/posts/emoji-support/"
+                href="./it/posts/emoji-support/"
                 />
   </url><url>
-    <loc>https://hba.sid.one/it/tags/</loc>
+    <loc>./it/tags/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://hba.sid.one/tags/"
+                href="./tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://hba.sid.one/de-de/tags/"
+                href="./de-de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://hba.sid.one/fr-fr/tags/"
+                href="./fr-fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hba.sid.one/pt-br/tags/"
+                href="./pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://hba.sid.one/ru-ru/tags/"
+                href="./ru-ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://hba.sid.one/it/tags/"
+                href="./it/tags/"
                 />
   </url><url>
-    <loc>https://hba.sid.one/it/categories/</loc>
+    <loc>./it/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://hba.sid.one/categories/"
+                href="./categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://hba.sid.one/de-de/categories/"
+                href="./de-de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://hba.sid.one/fr-fr/categories/"
+                href="./fr-fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hba.sid.one/pt-br/categories/"
+                href="./pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://hba.sid.one/ru-ru/categories/"
+                href="./ru-ru/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://hba.sid.one/it/categories/"
+                href="./it/categories/"
                 />
   </url><url>
-    <loc>https://hba.sid.one/it/pages/about/</loc>
+    <loc>./it/pages/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://hba.sid.one/de-de/pages/about/"
+                href="./de-de/pages/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://hba.sid.one/pages/about/"
+                href="./pages/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hba.sid.one/pt-br/pages/about/"
+                href="./pt-br/pages/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://hba.sid.one/fr-fr/pages/about/"
+                href="./fr-fr/pages/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://hba.sid.one/ru-ru/pages/about/"
+                href="./ru-ru/pages/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://hba.sid.one/it/pages/about/"
+                href="./it/pages/about/"
                 />
   </url><url>
-    <loc>https://hba.sid.one/it/pages/</loc>
+    <loc>./it/pages/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://hba.sid.one/pages/"
+                href="./pages/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://hba.sid.one/de-de/pages/"
+                href="./de-de/pages/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://hba.sid.one/fr-fr/pages/"
+                href="./fr-fr/pages/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://hba.sid.one/pt-br/pages/"
+                href="./pt-br/pages/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://hba.sid.one/ru-ru/pages/"
+                href="./ru-ru/pages/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://hba.sid.one/it/pages/"
+                href="./it/pages/"
                 />
   </url>
 </urlset>
