@@ -2,430 +2,291 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>./</loc>
-    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/de/</loc>
+    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="./de-de/"
+                href="http://localhost:1313/de-de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="./fr-fr/"
+                href="http://localhost:1313/fr-fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="./pt-br/"
+                href="http://localhost:1313/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="./ru-ru/"
+                href="http://localhost:1313/ru-ru/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="./it/"
+                href="http://localhost:1313/it/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="./"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>./posts/</loc>
+    <loc>http://localhost:1313/de/posts/table-of-content/</loc>
+    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/de/posts/</loc>
+    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/posts/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="./de-de/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="./fr-fr/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="./pt-br/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="./ru-ru/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="./it/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-gb"
-                href="./posts/"
-                />
   </url><url>
-    <loc>./posts/table-of-content/</loc>
+    <loc>http://localhost:1313/it/posts/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="./de-de/posts/table-of-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="./fr-fr/posts/table-of-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="./pt-br/posts/table-of-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="./ru-ru/posts/table-of-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="./it/posts/table-of-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-gb"
-                href="./posts/table-of-content/"
-                />
   </url><url>
-    <loc>./posts/math-typesetting/</loc>
+    <loc>http://localhost:1313/en/</loc>
+    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/</loc>
+    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/it/</loc>
+    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/it/posts/table-of-content/</loc>
+    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/br/</loc>
+    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/posts/table-of-content/</loc>
+    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/posts/</loc>
+    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/br/posts/</loc>
+    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/br/posts/table-of-content/</loc>
+    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/posts/table-of-content/</loc>
+    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ru/</loc>
+    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ru/posts/</loc>
+    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ru/posts/table-of-content/</loc>
+    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/it/posts/math-typesetting/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="./de-de/posts/math-typesetting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="./fr-fr/posts/math-typesetting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="./pt-br/posts/math-typesetting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="./ru-ru/posts/math-typesetting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="./it/posts/math-typesetting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-gb"
-                href="./posts/math-typesetting/"
-                />
   </url><url>
-    <loc>./posts/markdown-syntax/</loc>
+    <loc>http://localhost:1313/de/posts/math-typesetting/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/posts/math-typesetting/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/posts/math-typesetting/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/br/posts/math-typesetting/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ru/posts/math-typesetting/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/br/posts/markdown-syntax/</loc>
     <lastmod>2023-02-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="./pt-br/posts/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="./fr-fr/posts/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="./de-de/posts/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="./ru-ru/posts/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="./it/posts/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-gb"
-                href="./posts/markdown-syntax/"
-                />
   </url><url>
-    <loc>./posts/rich-content/</loc>
+    <loc>http://localhost:1313/it/posts/markdown-syntax/</loc>
+    <lastmod>2023-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/posts/markdown-syntax/</loc>
+    <lastmod>2023-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/de/posts/markdown-syntax/</loc>
+    <lastmod>2023-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/posts/markdown-syntax/</loc>
+    <lastmod>2023-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ru/posts/markdown-syntax/</loc>
+    <lastmod>2023-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/br/posts/rich-content/</loc>
     <lastmod>2023-02-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="./pt-br/posts/rich-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="./fr-fr/posts/rich-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="./de-de/posts/rich-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="./ru-ru/posts/rich-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="./it/posts/rich-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-gb"
-                href="./posts/rich-content/"
-                />
   </url><url>
-    <loc>./posts/placeholder-text/</loc>
+    <loc>http://localhost:1313/it/posts/rich-content/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/posts/rich-content/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/de/posts/rich-content/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/posts/rich-content/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ru/posts/rich-content/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/de/posts/placeholder-text/</loc>
     <lastmod>2023-02-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="./de-de/posts/placeholder-text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="./fr-fr/posts/placeholder-text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="./pt-br/posts/placeholder-text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="./ru-ru/posts/placeholder-text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="./it/posts/placeholder-text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-gb"
-                href="./posts/placeholder-text/"
-                />
   </url><url>
-    <loc>./tags/emoji/</loc>
+    <loc>http://localhost:1313/en/posts/placeholder-text/</loc>
+    <lastmod>2023-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/it/posts/placeholder-text/</loc>
+    <lastmod>2023-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/posts/placeholder-text/</loc>
+    <lastmod>2023-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/br/posts/placeholder-text/</loc>
+    <lastmod>2023-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ru/posts/placeholder-text/</loc>
+    <lastmod>2023-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/emoji/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="./de-de/tags/emoji/"
+                href="http://localhost:1313/de-de/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="./fr-fr/tags/emoji/"
+                href="http://localhost:1313/fr-fr/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="./pt-br/tags/emoji/"
+                href="http://localhost:1313/pt-br/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="./ru-ru/tags/emoji/"
+                href="http://localhost:1313/ru-ru/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="./it/tags/emoji/"
+                href="http://localhost:1313/it/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="./tags/emoji/"
+                href="http://localhost:1313/tags/emoji/"
                 />
   </url><url>
-    <loc>./posts/emoji-support/</loc>
+    <loc>http://localhost:1313/br/posts/emoji-support/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="./pt-br/posts/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="./de-de/posts/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="./fr-fr/posts/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="./ru-ru/posts/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="./it/posts/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-gb"
-                href="./posts/emoji-support/"
-                />
   </url><url>
-    <loc>./tags/</loc>
+    <loc>http://localhost:1313/de/posts/emoji-support/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/posts/emoji-support/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/posts/emoji-support/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/it/posts/emoji-support/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="./de-de/tags/"
+                href="http://localhost:1313/de-de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="./fr-fr/tags/"
+                href="http://localhost:1313/fr-fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="./pt-br/tags/"
+                href="http://localhost:1313/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="./ru-ru/tags/"
+                href="http://localhost:1313/ru-ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="./it/tags/"
+                href="http://localhost:1313/it/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="./tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url><url>
-    <loc>./pages/about/</loc>
+    <loc>http://localhost:1313/ru/posts/emoji-support/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/pages/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/de/pages/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/pages/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="./de-de/pages/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="./pt-br/pages/about/"
+                href="http://localhost:1313/de-de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="./fr-fr/pages/about/"
+                href="http://localhost:1313/fr-fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="./ru-ru/pages/about/"
+                href="http://localhost:1313/ru-ru/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="./it/pages/about/"
+                href="http://localhost:1313/it/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="./pages/about/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>./categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="./de-de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="./fr-fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="./pt-br/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="./ru-ru/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="./it/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-gb"
-                href="./categories/"
-                />
+    <loc>http://localhost:1313/it/pages/about/</loc>
   </url><url>
-    <loc>./pages/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="./de-de/pages/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="./fr-fr/pages/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="./pt-br/pages/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="./ru-ru/pages/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="./it/pages/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-gb"
-                href="./pages/"
-                />
+    <loc>http://localhost:1313/br/pages/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ru/pages/about/</loc>
   </url>
 </urlset>

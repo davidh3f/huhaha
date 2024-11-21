@@ -1,46 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>en-gb/sitemap.xml</loc>
-    
-      <lastmod>2023-05-02T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>de-de/sitemap.xml</loc>
-    
-      <lastmod>2024-03-04T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>fr-fr/sitemap.xml</loc>
-    
-      <lastmod>2023-05-02T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>pt-br/sitemap.xml</loc>
-    
-      <lastmod>2023-05-02T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>ru-ru/sitemap.xml</loc>
-    
-      <lastmod>2023-05-02T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>it/sitemap.xml</loc>
-    
-      <lastmod>2023-05-02T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://blog.huhaha.com/</loc>
+    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.huhaha.com/posts/decision/</loc>
+    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.huhaha.com/posts/</loc>
+    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.huhaha.com/tags/random_thoughts/</loc>
+    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.huhaha.com/tags/</loc>
+    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.huhaha.com/posts/ownership/</loc>
+    <lastmod>2021-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.huhaha.com/posts/play-hard/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.huhaha.com/posts/meaning-of-life/</loc>
+    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.huhaha.com/posts/right-or-wrong/</loc>
+    <lastmod>2020-12-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.huhaha.com/posts/strategic-thinking/</loc>
+    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.huhaha.com/posts/ren-xing/</loc>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.huhaha.com/posts/things-to-thank-for/</loc>
+    <lastmod>2019-11-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.huhaha.com/pages/about/</loc>
+  </url><url>
+    <loc>https://blog.huhaha.com/categories/</loc>
+  </url><url>
+    <loc>https://blog.huhaha.com/pages/</loc>
+  </url>
+</urlset>
