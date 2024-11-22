@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on huhaha</title>
-    <link>https://blog.huhaha.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on huhaha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.huhaha.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Just make a damn decision, any decision</title>
-      <link>https://blog.huhaha.com/posts/decision/</link>
+      <link>http://localhost:1313/posts/decision/</link>
       <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.huhaha.com/posts/decision/</guid>
+      <guid>http://localhost:1313/posts/decision/</guid>
       
       <description>&lt;p&gt;A couple of months back the wife took the kids to a local library and recycled many old kids books. Somehow one single book got missed and left in the car trunk.&lt;/p&gt;
 &lt;p&gt;Every time when we opened the trunk taking things out or putting things in, we saw this lonely book. Months passed and the book remained to be in the trunk. We thought about tossing it, going to the library to recycle it again, or just bringing it back to the house. We did nothing, because none of the options seemed to be “the winner”. We were “paralyzed” by this so called no-good-choice among many choices situation.&lt;/p&gt;</description>
@@ -21,13 +21,13 @@
     
     <item>
       <title>Ownership</title>
-      <link>https://blog.huhaha.com/posts/ownership/</link>
+      <link>http://localhost:1313/posts/ownership/</link>
       <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.huhaha.com/posts/ownership/</guid>
+      <guid>http://localhost:1313/posts/ownership/</guid>
       
       <description>&lt;p&gt;After a typical fall storm in central New Jersey, my lawn was covered with fallen leaves and tree branches. It’s just such a headache because I have to pick up all the fallen branches by hand before I could get on my ride-on lawn mower and clean up the leaves.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;lawn picture 01&#34; src=&#34;https://blog.huhaha.com/Lawn01.jpg&#34; title=&#34;Lawn after a storm&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;lawn picture 01&#34; src=&#34;http://localhost:1313/Lawn01.jpg&#34; title=&#34;Lawn after a storm&#34;&gt;&lt;/p&gt;
 &lt;p&gt;This time I asked my two kids for help.&lt;/p&gt;
 &lt;p&gt;Of course this is not their first time for such a task and they know perfectly well what was expected of them and quickly got on the job.&lt;/p&gt;</description>
       
@@ -35,10 +35,10 @@
     
     <item>
       <title>“Play Hard”</title>
-      <link>https://blog.huhaha.com/posts/play-hard/</link>
+      <link>http://localhost:1313/posts/play-hard/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.huhaha.com/posts/play-hard/</guid>
+      <guid>http://localhost:1313/posts/play-hard/</guid>
       
       <description>&lt;p&gt;It was about two months ago, my son’s second last game for the 2020 season of his soccer travel team. I don’t even remember the score of the game, but only our trip back home from the game. The trip was an hour long. But only a few minutes in, I saw my son, from the rear view mirror, was silently weeping in the back seat. I knew he wasn’t hurt in the game and performed okay, from my perspective, – nothing especially good or bad. But I did notice that his coach had a short conversation with him during a substitution.&lt;/p&gt;</description>
       
@@ -46,10 +46,10 @@
     
     <item>
       <title>My son, 11, asked me this million-dollar question, “what’s the meaning of life?”</title>
-      <link>https://blog.huhaha.com/posts/meaning-of-life/</link>
+      <link>http://localhost:1313/posts/meaning-of-life/</link>
       <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.huhaha.com/posts/meaning-of-life/</guid>
+      <guid>http://localhost:1313/posts/meaning-of-life/</guid>
       
       <description>&lt;p&gt;Got another opportunity to “chat” with my son yesterday, which I would never get it wasted. 😀&lt;/p&gt;
 &lt;p&gt;It was towards the end of the day, after he spent a lot of time during the day on absolutely nothing except all the “screen time” (phone games, PC games, switch games, youtube game plays, online chat with his friends, etc.), and I was able to ask him this question:&lt;/p&gt;
@@ -59,10 +59,10 @@
     
     <item>
       <title>Right or wrong – all about character</title>
-      <link>https://blog.huhaha.com/posts/right-or-wrong/</link>
+      <link>http://localhost:1313/posts/right-or-wrong/</link>
       <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.huhaha.com/posts/right-or-wrong/</guid>
+      <guid>http://localhost:1313/posts/right-or-wrong/</guid>
       
       <description>&lt;p&gt;This is what I wrote in a previous blog, “So the criterion of making a choice is really all about right or wrong, rather than how you feel (like or dislike),” a message I’ve repeatedly given to my son and hope one day he could take it to heart 😀. This line seems to be a perfect prelude for a conversation I just had with my son more recently:&lt;/p&gt;
 &lt;p&gt;“Eric, there are really only two things that matter to a person throughout his/her lifetime. The first one is the ability in making independent judgment on right or wrong; and the second one is to choose to do the right thing even it was against one’s own interest, desire, or feeling.”&lt;/p&gt;</description>
@@ -71,10 +71,10 @@
     
     <item>
       <title>Strategic Thinking, Or Not</title>
-      <link>https://blog.huhaha.com/posts/strategic-thinking/</link>
+      <link>http://localhost:1313/posts/strategic-thinking/</link>
       <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.huhaha.com/posts/strategic-thinking/</guid>
+      <guid>http://localhost:1313/posts/strategic-thinking/</guid>
       
       <description>&lt;p&gt;True story…&lt;/p&gt;
 &lt;p&gt;The husband enjoys Costco Butter Pound Cakes. In a morning he opened up a new one and, like what he always did, cut each cake into three even-sized pieces so that for the next nine days he could simply pick one piece each day for breakfast, as opposed to just cute out one piece for the day and do the same one-piece cut for the next eight days.&lt;/p&gt;</description>
@@ -83,10 +83,10 @@
     
     <item>
       <title>“任性” (ren’xing)</title>
-      <link>https://blog.huhaha.com/posts/ren-xing/</link>
+      <link>http://localhost:1313/posts/ren-xing/</link>
       <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.huhaha.com/posts/ren-xing/</guid>
+      <guid>http://localhost:1313/posts/ren-xing/</guid>
       
       <description>&lt;p&gt;There is a Chinese phrase “任性” and I found it’s hard to have a matching English translation. Google Translate gives me words like “capricious” or “willfulness”, which are really not what “任性” refers to in terms of its implication of someone’s behavior.&lt;/p&gt;
 &lt;p&gt;One day when I was having a conversation with my son and attempting to convince him doing his homework instead of playing video games, I suddenly figured out how to explain the meaning of this particular Chinese word to him, although that needing much more effort in English. I explained that when you make a choice between homework and video game, it’s not about which one you like or dislike, it’s really about what’s the right thing to do at that particular moment. So the criterion of making a choice is really all about right or wrong, rather than how you feel (like or dislike). If you can’t make the right choice based on this standard, this means you are too “任性” in Chinese.&lt;/p&gt;</description>
@@ -95,10 +95,10 @@
     
     <item>
       <title>Is there anything to thank for?</title>
-      <link>https://blog.huhaha.com/posts/things-to-thank-for/</link>
+      <link>http://localhost:1313/posts/things-to-thank-for/</link>
       <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.huhaha.com/posts/things-to-thank-for/</guid>
+      <guid>http://localhost:1313/posts/things-to-thank-for/</guid>
       
       <description>&lt;p&gt;I have a few hours to kill in this Thanksgiving Eve, while waiting in a local YMCA for my daughter’s swimming practice. It seems to be a perfect time and a perfect pause from busy daily routines to list out things that I can thank for.&lt;/p&gt;
 &lt;p&gt;Is there anything to thank for though, in this era full of confusion, in this life fully of stress, in this mind full of screaming? Is there any?!&lt;/p&gt;</description>
@@ -106,11 +106,652 @@
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://blog.huhaha.com/pages/about/</link>
+      <title></title>
+      <link>http://localhost:1313/posts/speak-from-heart/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.huhaha.com/pages/about/</guid>
+      <guid>http://localhost:1313/posts/speak-from-heart/</guid>
+      
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en-gb&#34;&gt;&lt;head&gt;&lt;meta charset=&#34;utf-8&#34;&gt;
+&lt;meta http-equiv=&#34;content-type&#34; content=&#34;text/html&#34;&gt;
+&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;
+
+&lt;title itemprop=&#34;name&#34;&gt;Speak from heart | huhaha&lt;/title&gt;
+&lt;meta property=&#34;og:title&#34; content=&#34;Speak from heart | huhaha&#34; /&gt;
+&lt;meta name=&#34;twitter:title&#34; content=&#34;Speak from heart | huhaha&#34; /&gt;
+&lt;meta itemprop=&#34;name&#34; content=&#34;Speak from heart | huhaha&#34; /&gt;
+&lt;meta name=&#34;application-name&#34; content=&#34;Speak from heart | huhaha&#34; /&gt;
+&lt;meta property=&#34;og:site_name&#34; content=&#34;huhaha&#34; /&gt;
+
+&lt;meta name=&#34;description&#34; content=&#34;everything is awesome!&#34;&gt;
+&lt;meta itemprop=&#34;description&#34; content=&#34;everything is awesome!&#34; /&gt;
+&lt;meta property=&#34;og:description&#34; content=&#34;everything is awesome!&#34; /&gt;
+&lt;meta name=&#34;twitter:description&#34; content=&#34;everything is awesome!&#34; /&gt;
+
+&lt;meta property=&#34;og:locale&#34; content=&#34;en-gb&#34; /&gt;
+&lt;meta name=&#34;language&#34; content=&#34;en-gb&#34; /&gt;
+
+  &lt;link rel=&#34;alternate&#34; hreflang=&#34;en-gb&#34; href=&#34;https://blog.huhaha.com/posts/speak-from-heart/&#34; title=&#34;English&#34; /&gt;
+
+
+
+
+
+    
+    
+    
+
+    &lt;meta property=&#34;og:type&#34; content=&#34;article&#34; /&gt;
+    &lt;meta property=&#34;og:article:published_time&#34; content=2015-06-09T00:00:00Z /&gt;
+    &lt;meta property=&#34;article:published_time&#34; content=2015-06-09T00:00:00Z /&gt;
+    &lt;meta property=&#34;og:url&#34; content=&#34;https://blog.huhaha.com/posts/speak-from-heart/&#34; /&gt;
+
+    
+    &lt;meta property=&#34;og:article:author&#34; content=&#34;&#34; /&gt;
+    &lt;meta property=&#34;article:author&#34; content=&#34;&#34; /&gt;
+    &lt;meta name=&#34;author&#34; content=&#34;&#34; /&gt;
+    
+    
+
+    
+
+    &lt;script defer type=&#34;application/ld+json&#34;&gt;
+    {
+        &#34;@context&#34;: &#34;http://schema.org&#34;,
+        &#34;@type&#34;: &#34;Article&#34;,
+        &#34;headline&#34;: &#34;Speak from heart&#34;,
+        &#34;author&#34;: {
+        &#34;@type&#34;: &#34;Person&#34;,
+        &#34;name&#34;: &#34;&#34;
+        },
+        &#34;datePublished&#34;: &#34;2015-06-09&#34;,
+        &#34;description&#34;: &#34;&#34;,
+        &#34;wordCount&#34;:  211 ,
+        &#34;mainEntityOfPage&#34;: &#34;True&#34;,
+        &#34;dateModified&#34;: &#34;2015-06-09&#34;,
+        &#34;image&#34;: {
+        &#34;@type&#34;: &#34;imageObject&#34;,
+        &#34;url&#34;: &#34;&#34;
+        },
+        &#34;publisher&#34;: {
+        &#34;@type&#34;: &#34;Organization&#34;,
+        &#34;name&#34;: &#34;huhaha&#34;
+        }
+    }
+    &lt;/script&gt;
+
+
+&lt;meta name=&#34;generator&#34; content=&#34;Hugo 0.139.0&#34;&gt;
+
+    
+    &lt;meta property=&#34;og:url&#34; content=&#34;https://blog.huhaha.com/posts/speak-from-heart/&#34;&gt;
+  &lt;meta property=&#34;og:site_name&#34; content=&#34;huhaha&#34;&gt;
+  &lt;meta property=&#34;og:title&#34; content=&#34;Speak from heart&#34;&gt;
+  &lt;meta property=&#34;og:description&#34; content=&#34;In an oversimplified way, people speak in three different manners: spontaneous responses, filtered by logical thinking, and voice of your heart.
+Remember when I was in graduate school, I was cleaning up the lab, which was supposed to be a shared job by all graduate students. A girl, who walked into the lab and saw what I was doing, causally questioned my motivation of doing that. I was quite annoyed to say the least because she was supposed to help me instead of mocking me. Well, the girl became my wife later…that’s another story for another day.&#34;&gt;
+  &lt;meta property=&#34;og:locale&#34; content=&#34;en_gb&#34;&gt;
+  &lt;meta property=&#34;og:type&#34; content=&#34;article&#34;&gt;
+    &lt;meta property=&#34;article:section&#34; content=&#34;posts&#34;&gt;
+    &lt;meta property=&#34;article:published_time&#34; content=&#34;2015-06-09T00:00:00+00:00&#34;&gt;
+    &lt;meta property=&#34;article:modified_time&#34; content=&#34;2015-06-09T00:00:00+00:00&#34;&gt;
+    &lt;meta property=&#34;article:tag&#34; content=&#34;Random_thoughts&#34;&gt;
+
+
+    
+    
+  &lt;meta name=&#34;twitter:card&#34; content=&#34;summary&#34;&gt;
+  &lt;meta name=&#34;twitter:title&#34; content=&#34;Speak from heart&#34;&gt;
+  &lt;meta name=&#34;twitter:description&#34; content=&#34;In an oversimplified way, people speak in three different manners: spontaneous responses, filtered by logical thinking, and voice of your heart.
+Remember when I was in graduate school, I was cleaning up the lab, which was supposed to be a shared job by all graduate students. A girl, who walked into the lab and saw what I was doing, causally questioned my motivation of doing that. I was quite annoyed to say the least because she was supposed to help me instead of mocking me. Well, the girl became my wife later…that’s another story for another day.&#34;&gt;
+
+
+    
+
+    &lt;link rel=&#34;canonical&#34; href=&#34;https://blog.huhaha.com/posts/speak-from-heart/&#34;&gt;
+    &lt;link href=&#34;http://localhost:1313/style.min.2d921c18cf1ec555ffc03d59a8adc211c402c68c930c27d6a0c306ab175a8d09.css&#34; rel=&#34;stylesheet&#34;&gt;
+    &lt;link href=&#34;http://localhost:1313/code-highlight.min.706d31975fec544a864cb7f0d847a73ea55ca1df91bf495fd12a177138d807cf.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+    
+    &lt;link rel=&#34;apple-touch-icon&#34; sizes=&#34;180x180&#34; href=&#34;http://localhost:1313/icons/apple-touch-icon.png&#34;&gt;
+    &lt;link rel=&#34;icon&#34; type=&#34;image/png&#34; sizes=&#34;32x32&#34; href=&#34;http://localhost:1313/icons/favicon-32x32.png&#34;&gt;
+    &lt;link rel=&#34;icon&#34; type=&#34;image/png&#34; sizes=&#34;16x16&#34; href=&#34;http://localhost:1313/icons/favicon-16x16.png&#34;&gt;
+    &lt;link rel=&#34;mask-icon&#34; href=&#34;http://localhost:1313/icons/safari-pinned-tab.svg&#34;&gt;
+    &lt;link rel=&#34;shortcut icon&#34; href=&#34;http://localhost:1313/favicon.ico&#34;&gt;
+
+
+
+
+&lt;link rel=&#34;manifest&#34; href=&#34;https://blog.huhaha.com/site.webmanifest&#34;&gt;
+
+&lt;meta name=&#34;msapplication-config&#34; content=&#34;/browserconfig.xml&#34;&gt;
+&lt;meta name=&#34;msapplication-TileColor&#34; content=&#34;#2d89ef&#34;&gt;
+&lt;meta name=&#34;theme-color&#34; content=&#34;#434648&#34;&gt;
+
+    
+    &lt;link rel=&#34;icon&#34; type=&#34;image/svg+xml&#34; href=&#34;http://localhost:1313/icons/favicon.svg&#34;&gt;
+
+    
+    
+    
+&lt;/head&gt;
+&lt;body data-theme = &#34;auto&#34; class=&#34;notransition&#34;&gt;
+
+&lt;script src=&#34;http://localhost:1313/js/theme.min.8961c317c5b88b953fe27525839672c9343f1058ab044696ca225656c8ba2ab0.js&#34; integrity=&#34;sha256-iWHDF8W4i5U/4nUlg5ZyyTQ/EFirBEaWyiJWVsi6KrA=&#34;&gt;&lt;/script&gt;
+
+&lt;div class=&#34;navbar&#34; role=&#34;navigation&#34;&gt;
+    &lt;nav class=&#34;menu&#34; aria-label=&#34;Main Navigation&#34;&gt;
+        &lt;a href=&#34;https://blog.huhaha.com/&#34; class=&#34;logo&#34;&gt;
+            &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;25&#34; height=&#34;25&#34; 
+viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; 
+stroke-linejoin=&#34;round&#34; class=&#34;feather feather-home&#34;&gt;
+&lt;title&gt;Home&lt;/title&gt;
+&lt;path d=&#34;M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z&#34;&gt;&lt;/path&gt;
+&lt;polyline points=&#34;9 22 9 12 15 12 15 22&#34;&gt;&lt;/polyline&gt;
+&lt;/svg&gt;
+        &lt;/a&gt;
+        &lt;input type=&#34;checkbox&#34; id=&#34;menu-trigger&#34; class=&#34;menu-trigger&#34; /&gt;
+        &lt;label for=&#34;menu-trigger&#34;&gt;
+            &lt;span class=&#34;menu-icon&#34;&gt;
+                &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;25&#34; height=&#34;25&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; viewBox=&#34;0 0 14 14&#34;&gt;&lt;title&gt;Menu&lt;/title&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M10.595 7L3.40726 7&#34;&gt;&lt;/path&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M10.5096 3.51488L3.49301 3.51488&#34;&gt;&lt;/path&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M10.5096 10.4851H3.49301&#34;&gt;&lt;/path&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M0.5 12.5V1.5C0.5 0.947715 0.947715 0.5 1.5 0.5H12.5C13.0523 0.5 13.5 0.947715 13.5 1.5V12.5C13.5 13.0523 13.0523 13.5 12.5 13.5H1.5C0.947715 13.5 0.5 13.0523 0.5 12.5Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;
+            &lt;/span&gt;
+        &lt;/label&gt;
+
+        &lt;div class=&#34;trigger&#34;&gt;
+            &lt;ul class=&#34;trigger-container&#34;&gt;
+                
+                
+                &lt;li&gt;
+                    &lt;a class=&#34;menu-link &#34; href=&#34;http://localhost:1313/&#34;&gt;
+                        Home
+                    &lt;/a&gt;
+                    
+                &lt;/li&gt;
+                
+                &lt;li&gt;
+                    &lt;a class=&#34;menu-link active&#34; href=&#34;http://localhost:1313/posts/&#34;&gt;
+                        Posts
+                    &lt;/a&gt;
+                    
+                &lt;/li&gt;
+                
+                &lt;li&gt;
+                    &lt;a class=&#34;menu-link &#34; href=&#34;&#34;&gt;
+                        
+                    &lt;/a&gt;
+                    
+                &lt;/li&gt;
+                
+                &lt;li class=&#34;menu-separator&#34;&gt;
+                    &lt;span&gt;|&lt;/span&gt;
+                &lt;/li&gt;
+                
+                
+            &lt;/ul&gt;
+            &lt;a id=&#34;mode&#34; href=&#34;#&#34;&gt;
+                &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;mode-sunny&#34; width=&#34;21&#34; height=&#34;21&#34; viewBox=&#34;0 0 14 14&#34; stroke-width=&#34;1&#34;&gt;
+&lt;title&gt;LIGHT&lt;/title&gt;&lt;g&gt;&lt;circle cx=&#34;7&#34; cy=&#34;7&#34; r=&#34;2.5&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/circle&gt;&lt;line x1=&#34;7&#34; y1=&#34;0.5&#34; x2=&#34;7&#34; y2=&#34;2.5&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;2.4&#34; y1=&#34;2.4&#34; x2=&#34;3.82&#34; y2=&#34;3.82&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;0.5&#34; y1=&#34;7&#34; x2=&#34;2.5&#34; y2=&#34;7&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;2.4&#34; y1=&#34;11.6&#34; x2=&#34;3.82&#34; y2=&#34;10.18&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;7&#34; y1=&#34;13.5&#34; x2=&#34;7&#34; y2=&#34;11.5&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;11.6&#34; y1=&#34;11.6&#34; x2=&#34;10.18&#34; y2=&#34;10.18&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;13.5&#34; y1=&#34;7&#34; x2=&#34;11.5&#34; y2=&#34;7&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;11.6&#34; y1=&#34;2.4&#34; x2=&#34;10.18&#34; y2=&#34;3.82&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;/g&gt;&lt;/svg&gt;
+                &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;mode-moon&#34; width=&#34;21&#34; height=&#34;21&#34; viewBox=&#34;0 0 14 14&#34; stroke-width=&#34;1&#34;&gt;
+&lt;title&gt;DARK&lt;/title&gt;&lt;g&gt;&lt;circle cx=&#34;7&#34; cy=&#34;7&#34; r=&#34;2.5&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/circle&gt;&lt;line x1=&#34;7&#34; y1=&#34;0.5&#34; x2=&#34;7&#34; y2=&#34;2.5&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;2.4&#34; y1=&#34;2.4&#34; x2=&#34;3.82&#34; y2=&#34;3.82&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;0.5&#34; y1=&#34;7&#34; x2=&#34;2.5&#34; y2=&#34;7&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;2.4&#34; y1=&#34;11.6&#34; x2=&#34;3.82&#34; y2=&#34;10.18&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;7&#34; y1=&#34;13.5&#34; x2=&#34;7&#34; y2=&#34;11.5&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;11.6&#34; y1=&#34;11.6&#34; x2=&#34;10.18&#34; y2=&#34;10.18&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;13.5&#34; y1=&#34;7&#34; x2=&#34;11.5&#34; y2=&#34;7&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;11.6&#34; y1=&#34;2.4&#34; x2=&#34;10.18&#34; y2=&#34;3.82&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;/g&gt;&lt;/svg&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/nav&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;wrapper post&#34;&gt;
+    &lt;main class=&#34;page-content&#34; aria-label=&#34;Content&#34;&gt;
+        &lt;article&gt;
+            &lt;header class=&#34;header&#34;&gt;
+                &lt;h1 class=&#34;header-title&#34;&gt;Speak from heart&lt;/h1&gt;
+                
+                
+                
+                &lt;div class=&#34;post-meta&#34;&gt;
+                    &lt;time datetime=&#34;2015-06-09T00:00:00&amp;#43;00:00&#34; itemprop=&#34;datePublished&#34;&gt; 2015-06-09 &lt;/time&gt;
+                &lt;/div&gt;
+                
+            &lt;/header&gt;
+            
+            &lt;div class=&#34;page-content&#34;&gt;
+                &lt;p&gt;In an oversimplified way, people speak in three different manners: spontaneous responses, filtered by logical thinking, and voice of your heart.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/truth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/truth/</guid>
+      
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en-gb&#34;&gt;&lt;head&gt;&lt;meta charset=&#34;utf-8&#34;&gt;
+&lt;meta http-equiv=&#34;content-type&#34; content=&#34;text/html&#34;&gt;
+&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;
+
+&lt;title itemprop=&#34;name&#34;&gt;Truth | huhaha&lt;/title&gt;
+&lt;meta property=&#34;og:title&#34; content=&#34;Truth | huhaha&#34; /&gt;
+&lt;meta name=&#34;twitter:title&#34; content=&#34;Truth | huhaha&#34; /&gt;
+&lt;meta itemprop=&#34;name&#34; content=&#34;Truth | huhaha&#34; /&gt;
+&lt;meta name=&#34;application-name&#34; content=&#34;Truth | huhaha&#34; /&gt;
+&lt;meta property=&#34;og:site_name&#34; content=&#34;huhaha&#34; /&gt;
+
+&lt;meta name=&#34;description&#34; content=&#34;everything is awesome!&#34;&gt;
+&lt;meta itemprop=&#34;description&#34; content=&#34;everything is awesome!&#34; /&gt;
+&lt;meta property=&#34;og:description&#34; content=&#34;everything is awesome!&#34; /&gt;
+&lt;meta name=&#34;twitter:description&#34; content=&#34;everything is awesome!&#34; /&gt;
+
+&lt;meta property=&#34;og:locale&#34; content=&#34;en-gb&#34; /&gt;
+&lt;meta name=&#34;language&#34; content=&#34;en-gb&#34; /&gt;
+
+  &lt;link rel=&#34;alternate&#34; hreflang=&#34;en-gb&#34; href=&#34;https://blog.huhaha.com/posts/truth/&#34; title=&#34;English&#34; /&gt;
+
+
+
+
+
+    
+    
+    
+
+    &lt;meta property=&#34;og:type&#34; content=&#34;article&#34; /&gt;
+    &lt;meta property=&#34;og:article:published_time&#34; content=2018-02-16T00:00:00Z /&gt;
+    &lt;meta property=&#34;article:published_time&#34; content=2018-02-16T00:00:00Z /&gt;
+    &lt;meta property=&#34;og:url&#34; content=&#34;https://blog.huhaha.com/posts/truth/&#34; /&gt;
+
+    
+    &lt;meta property=&#34;og:article:author&#34; content=&#34;&#34; /&gt;
+    &lt;meta property=&#34;article:author&#34; content=&#34;&#34; /&gt;
+    &lt;meta name=&#34;author&#34; content=&#34;&#34; /&gt;
+    
+    
+
+    
+
+    &lt;script defer type=&#34;application/ld+json&#34;&gt;
+    {
+        &#34;@context&#34;: &#34;http://schema.org&#34;,
+        &#34;@type&#34;: &#34;Article&#34;,
+        &#34;headline&#34;: &#34;Truth&#34;,
+        &#34;author&#34;: {
+        &#34;@type&#34;: &#34;Person&#34;,
+        &#34;name&#34;: &#34;&#34;
+        },
+        &#34;datePublished&#34;: &#34;2018-02-16&#34;,
+        &#34;description&#34;: &#34;&#34;,
+        &#34;wordCount&#34;:  250 ,
+        &#34;mainEntityOfPage&#34;: &#34;True&#34;,
+        &#34;dateModified&#34;: &#34;2018-02-16&#34;,
+        &#34;image&#34;: {
+        &#34;@type&#34;: &#34;imageObject&#34;,
+        &#34;url&#34;: &#34;&#34;
+        },
+        &#34;publisher&#34;: {
+        &#34;@type&#34;: &#34;Organization&#34;,
+        &#34;name&#34;: &#34;huhaha&#34;
+        }
+    }
+    &lt;/script&gt;
+
+
+&lt;meta name=&#34;generator&#34; content=&#34;Hugo 0.139.0&#34;&gt;
+
+    
+    &lt;meta property=&#34;og:url&#34; content=&#34;https://blog.huhaha.com/posts/truth/&#34;&gt;
+  &lt;meta property=&#34;og:site_name&#34; content=&#34;huhaha&#34;&gt;
+  &lt;meta property=&#34;og:title&#34; content=&#34;Truth&#34;&gt;
+  &lt;meta property=&#34;og:description&#34; content=&#34;Ability in finding truth
+People’s ability in finding truth differ. There are
+people who can tell the truth ahead of all others and before all evidences are being presented; people who can recognize the truth when the facts are laid out in front them – the “Aha moment”; people who will never accept the truth when it is against their own will, even all the facts in the world are out there for them to see. Can we say that’s how we tell the difference between true leaders, responsible citizens, and if not conspirators must be fools?&#34;&gt;
+  &lt;meta property=&#34;og:locale&#34; content=&#34;en_gb&#34;&gt;
+  &lt;meta property=&#34;og:type&#34; content=&#34;article&#34;&gt;
+    &lt;meta property=&#34;article:section&#34; content=&#34;posts&#34;&gt;
+    &lt;meta property=&#34;article:published_time&#34; content=&#34;2018-02-16T00:00:00+00:00&#34;&gt;
+    &lt;meta property=&#34;article:modified_time&#34; content=&#34;2018-02-16T00:00:00+00:00&#34;&gt;
+    &lt;meta property=&#34;article:tag&#34; content=&#34;Random_thoughts&#34;&gt;
+
+
+    
+    
+  &lt;meta name=&#34;twitter:card&#34; content=&#34;summary&#34;&gt;
+  &lt;meta name=&#34;twitter:title&#34; content=&#34;Truth&#34;&gt;
+  &lt;meta name=&#34;twitter:description&#34; content=&#34;Ability in finding truth
+People’s ability in finding truth differ. There are
+people who can tell the truth ahead of all others and before all evidences are being presented; people who can recognize the truth when the facts are laid out in front them – the “Aha moment”; people who will never accept the truth when it is against their own will, even all the facts in the world are out there for them to see. Can we say that’s how we tell the difference between true leaders, responsible citizens, and if not conspirators must be fools?&#34;&gt;
+
+
+    
+
+    &lt;link rel=&#34;canonical&#34; href=&#34;https://blog.huhaha.com/posts/truth/&#34;&gt;
+    &lt;link href=&#34;http://localhost:1313/style.min.2d921c18cf1ec555ffc03d59a8adc211c402c68c930c27d6a0c306ab175a8d09.css&#34; rel=&#34;stylesheet&#34;&gt;
+    &lt;link href=&#34;http://localhost:1313/code-highlight.min.706d31975fec544a864cb7f0d847a73ea55ca1df91bf495fd12a177138d807cf.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+    
+    &lt;link rel=&#34;apple-touch-icon&#34; sizes=&#34;180x180&#34; href=&#34;http://localhost:1313/icons/apple-touch-icon.png&#34;&gt;
+    &lt;link rel=&#34;icon&#34; type=&#34;image/png&#34; sizes=&#34;32x32&#34; href=&#34;http://localhost:1313/icons/favicon-32x32.png&#34;&gt;
+    &lt;link rel=&#34;icon&#34; type=&#34;image/png&#34; sizes=&#34;16x16&#34; href=&#34;http://localhost:1313/icons/favicon-16x16.png&#34;&gt;
+    &lt;link rel=&#34;mask-icon&#34; href=&#34;http://localhost:1313/icons/safari-pinned-tab.svg&#34;&gt;
+    &lt;link rel=&#34;shortcut icon&#34; href=&#34;http://localhost:1313/favicon.ico&#34;&gt;
+
+
+
+
+&lt;link rel=&#34;manifest&#34; href=&#34;https://blog.huhaha.com/site.webmanifest&#34;&gt;
+
+&lt;meta name=&#34;msapplication-config&#34; content=&#34;/browserconfig.xml&#34;&gt;
+&lt;meta name=&#34;msapplication-TileColor&#34; content=&#34;#2d89ef&#34;&gt;
+&lt;meta name=&#34;theme-color&#34; content=&#34;#434648&#34;&gt;
+
+    
+    &lt;link rel=&#34;icon&#34; type=&#34;image/svg+xml&#34; href=&#34;http://localhost:1313/icons/favicon.svg&#34;&gt;
+
+    
+    
+    
+&lt;/head&gt;
+&lt;body data-theme = &#34;auto&#34; class=&#34;notransition&#34;&gt;
+
+&lt;script src=&#34;http://localhost:1313/js/theme.min.8961c317c5b88b953fe27525839672c9343f1058ab044696ca225656c8ba2ab0.js&#34; integrity=&#34;sha256-iWHDF8W4i5U/4nUlg5ZyyTQ/EFirBEaWyiJWVsi6KrA=&#34;&gt;&lt;/script&gt;
+
+&lt;div class=&#34;navbar&#34; role=&#34;navigation&#34;&gt;
+    &lt;nav class=&#34;menu&#34; aria-label=&#34;Main Navigation&#34;&gt;
+        &lt;a href=&#34;https://blog.huhaha.com/&#34; class=&#34;logo&#34;&gt;
+            &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;25&#34; height=&#34;25&#34; 
+viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; 
+stroke-linejoin=&#34;round&#34; class=&#34;feather feather-home&#34;&gt;
+&lt;title&gt;Home&lt;/title&gt;
+&lt;path d=&#34;M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z&#34;&gt;&lt;/path&gt;
+&lt;polyline points=&#34;9 22 9 12 15 12 15 22&#34;&gt;&lt;/polyline&gt;
+&lt;/svg&gt;
+        &lt;/a&gt;
+        &lt;input type=&#34;checkbox&#34; id=&#34;menu-trigger&#34; class=&#34;menu-trigger&#34; /&gt;
+        &lt;label for=&#34;menu-trigger&#34;&gt;
+            &lt;span class=&#34;menu-icon&#34;&gt;
+                &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;25&#34; height=&#34;25&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; viewBox=&#34;0 0 14 14&#34;&gt;&lt;title&gt;Menu&lt;/title&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M10.595 7L3.40726 7&#34;&gt;&lt;/path&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M10.5096 3.51488L3.49301 3.51488&#34;&gt;&lt;/path&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M10.5096 10.4851H3.49301&#34;&gt;&lt;/path&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M0.5 12.5V1.5C0.5 0.947715 0.947715 0.5 1.5 0.5H12.5C13.0523 0.5 13.5 0.947715 13.5 1.5V12.5C13.5 13.0523 13.0523 13.5 12.5 13.5H1.5C0.947715 13.5 0.5 13.0523 0.5 12.5Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;
+            &lt;/span&gt;
+        &lt;/label&gt;
+
+        &lt;div class=&#34;trigger&#34;&gt;
+            &lt;ul class=&#34;trigger-container&#34;&gt;
+                
+                
+                &lt;li&gt;
+                    &lt;a class=&#34;menu-link &#34; href=&#34;http://localhost:1313/&#34;&gt;
+                        Home
+                    &lt;/a&gt;
+                    
+                &lt;/li&gt;
+                
+                &lt;li&gt;
+                    &lt;a class=&#34;menu-link active&#34; href=&#34;http://localhost:1313/posts/&#34;&gt;
+                        Posts
+                    &lt;/a&gt;
+                    
+                &lt;/li&gt;
+                
+                &lt;li&gt;
+                    &lt;a class=&#34;menu-link &#34; href=&#34;&#34;&gt;
+                        
+                    &lt;/a&gt;
+                    
+                &lt;/li&gt;
+                
+                &lt;li class=&#34;menu-separator&#34;&gt;
+                    &lt;span&gt;|&lt;/span&gt;
+                &lt;/li&gt;
+                
+                
+            &lt;/ul&gt;
+            &lt;a id=&#34;mode&#34; href=&#34;#&#34;&gt;
+                &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;mode-sunny&#34; width=&#34;21&#34; height=&#34;21&#34; viewBox=&#34;0 0 14 14&#34; stroke-width=&#34;1&#34;&gt;
+&lt;title&gt;LIGHT&lt;/title&gt;&lt;g&gt;&lt;circle cx=&#34;7&#34; cy=&#34;7&#34; r=&#34;2.5&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/circle&gt;&lt;line x1=&#34;7&#34; y1=&#34;0.5&#34; x2=&#34;7&#34; y2=&#34;2.5&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;2.4&#34; y1=&#34;2.4&#34; x2=&#34;3.82&#34; y2=&#34;3.82&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;0.5&#34; y1=&#34;7&#34; x2=&#34;2.5&#34; y2=&#34;7&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;2.4&#34; y1=&#34;11.6&#34; x2=&#34;3.82&#34; y2=&#34;10.18&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;7&#34; y1=&#34;13.5&#34; x2=&#34;7&#34; y2=&#34;11.5&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;11.6&#34; y1=&#34;11.6&#34; x2=&#34;10.18&#34; y2=&#34;10.18&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;13.5&#34; y1=&#34;7&#34; x2=&#34;11.5&#34; y2=&#34;7&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;11.6&#34; y1=&#34;2.4&#34; x2=&#34;10.18&#34; y2=&#34;3.82&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;/g&gt;&lt;/svg&gt;
+                &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;mode-moon&#34; width=&#34;21&#34; height=&#34;21&#34; viewBox=&#34;0 0 14 14&#34; stroke-width=&#34;1&#34;&gt;
+&lt;title&gt;DARK&lt;/title&gt;&lt;g&gt;&lt;circle cx=&#34;7&#34; cy=&#34;7&#34; r=&#34;2.5&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/circle&gt;&lt;line x1=&#34;7&#34; y1=&#34;0.5&#34; x2=&#34;7&#34; y2=&#34;2.5&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;2.4&#34; y1=&#34;2.4&#34; x2=&#34;3.82&#34; y2=&#34;3.82&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;0.5&#34; y1=&#34;7&#34; x2=&#34;2.5&#34; y2=&#34;7&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;2.4&#34; y1=&#34;11.6&#34; x2=&#34;3.82&#34; y2=&#34;10.18&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;7&#34; y1=&#34;13.5&#34; x2=&#34;7&#34; y2=&#34;11.5&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;11.6&#34; y1=&#34;11.6&#34; x2=&#34;10.18&#34; y2=&#34;10.18&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;13.5&#34; y1=&#34;7&#34; x2=&#34;11.5&#34; y2=&#34;7&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;11.6&#34; y1=&#34;2.4&#34; x2=&#34;10.18&#34; y2=&#34;3.82&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;/g&gt;&lt;/svg&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/nav&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;wrapper post&#34;&gt;
+    &lt;main class=&#34;page-content&#34; aria-label=&#34;Content&#34;&gt;
+        &lt;article&gt;
+            &lt;header class=&#34;header&#34;&gt;
+                &lt;h1 class=&#34;header-title&#34;&gt;Truth&lt;/h1&gt;
+                
+                
+                
+                &lt;div class=&#34;post-meta&#34;&gt;
+                    &lt;time datetime=&#34;2018-02-16T00:00:00&amp;#43;00:00&#34; itemprop=&#34;datePublished&#34;&gt; 2018-02-16 &lt;/time&gt;
+                &lt;/div&gt;
+                
+            &lt;/header&gt;
+            
+            &lt;div class=&#34;page-content&#34;&gt;
+                &lt;p&gt;Ability in finding truth&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/weather/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/weather/</guid>
+      
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en-gb&#34;&gt;&lt;head&gt;&lt;meta charset=&#34;utf-8&#34;&gt;
+&lt;meta http-equiv=&#34;content-type&#34; content=&#34;text/html&#34;&gt;
+&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;
+
+&lt;title itemprop=&#34;name&#34;&gt;Weather | huhaha&lt;/title&gt;
+&lt;meta property=&#34;og:title&#34; content=&#34;Weather | huhaha&#34; /&gt;
+&lt;meta name=&#34;twitter:title&#34; content=&#34;Weather | huhaha&#34; /&gt;
+&lt;meta itemprop=&#34;name&#34; content=&#34;Weather | huhaha&#34; /&gt;
+&lt;meta name=&#34;application-name&#34; content=&#34;Weather | huhaha&#34; /&gt;
+&lt;meta property=&#34;og:site_name&#34; content=&#34;huhaha&#34; /&gt;
+
+&lt;meta name=&#34;description&#34; content=&#34;everything is awesome!&#34;&gt;
+&lt;meta itemprop=&#34;description&#34; content=&#34;everything is awesome!&#34; /&gt;
+&lt;meta property=&#34;og:description&#34; content=&#34;everything is awesome!&#34; /&gt;
+&lt;meta name=&#34;twitter:description&#34; content=&#34;everything is awesome!&#34; /&gt;
+
+&lt;meta property=&#34;og:locale&#34; content=&#34;en-gb&#34; /&gt;
+&lt;meta name=&#34;language&#34; content=&#34;en-gb&#34; /&gt;
+
+  &lt;link rel=&#34;alternate&#34; hreflang=&#34;en-gb&#34; href=&#34;https://blog.huhaha.com/posts/weather/&#34; title=&#34;English&#34; /&gt;
+
+
+
+
+
+    
+    
+    
+
+    &lt;meta property=&#34;og:type&#34; content=&#34;article&#34; /&gt;
+    &lt;meta property=&#34;og:article:published_time&#34; content=2019-02-04T00:00:00Z /&gt;
+    &lt;meta property=&#34;article:published_time&#34; content=2019-02-04T00:00:00Z /&gt;
+    &lt;meta property=&#34;og:url&#34; content=&#34;https://blog.huhaha.com/posts/weather/&#34; /&gt;
+
+    
+    &lt;meta property=&#34;og:article:author&#34; content=&#34;&#34; /&gt;
+    &lt;meta property=&#34;article:author&#34; content=&#34;&#34; /&gt;
+    &lt;meta name=&#34;author&#34; content=&#34;&#34; /&gt;
+    
+    
+
+    
+
+    &lt;script defer type=&#34;application/ld+json&#34;&gt;
+    {
+        &#34;@context&#34;: &#34;http://schema.org&#34;,
+        &#34;@type&#34;: &#34;Article&#34;,
+        &#34;headline&#34;: &#34;Weather&#34;,
+        &#34;author&#34;: {
+        &#34;@type&#34;: &#34;Person&#34;,
+        &#34;name&#34;: &#34;&#34;
+        },
+        &#34;datePublished&#34;: &#34;2019-02-04&#34;,
+        &#34;description&#34;: &#34;&#34;,
+        &#34;wordCount&#34;:  351 ,
+        &#34;mainEntityOfPage&#34;: &#34;True&#34;,
+        &#34;dateModified&#34;: &#34;2019-02-04&#34;,
+        &#34;image&#34;: {
+        &#34;@type&#34;: &#34;imageObject&#34;,
+        &#34;url&#34;: &#34;&#34;
+        },
+        &#34;publisher&#34;: {
+        &#34;@type&#34;: &#34;Organization&#34;,
+        &#34;name&#34;: &#34;huhaha&#34;
+        }
+    }
+    &lt;/script&gt;
+
+
+&lt;meta name=&#34;generator&#34; content=&#34;Hugo 0.139.0&#34;&gt;
+
+    
+    &lt;meta property=&#34;og:url&#34; content=&#34;https://blog.huhaha.com/posts/weather/&#34;&gt;
+  &lt;meta property=&#34;og:site_name&#34; content=&#34;huhaha&#34;&gt;
+  &lt;meta property=&#34;og:title&#34; content=&#34;Weather&#34;&gt;
+  &lt;meta property=&#34;og:description&#34; content=&#34;It all started with a small talk about weather… This is early February in New Jersey. After a few historical cold days at around zero °F degrees, it shot right to the sixties.
+Walking my daughter out of her piano lesson, she commented on the weather:
+“This is crazy. This is exactly what’s been said about global warming. In a winter day, you got so cold, but the next day you got so warm.”&#34;&gt;
+  &lt;meta property=&#34;og:locale&#34; content=&#34;en_gb&#34;&gt;
+  &lt;meta property=&#34;og:type&#34; content=&#34;article&#34;&gt;
+    &lt;meta property=&#34;article:section&#34; content=&#34;posts&#34;&gt;
+    &lt;meta property=&#34;article:published_time&#34; content=&#34;2019-02-04T00:00:00+00:00&#34;&gt;
+    &lt;meta property=&#34;article:modified_time&#34; content=&#34;2019-02-04T00:00:00+00:00&#34;&gt;
+    &lt;meta property=&#34;article:tag&#34; content=&#34;Random_thoughts&#34;&gt;
+
+
+    
+    
+  &lt;meta name=&#34;twitter:card&#34; content=&#34;summary&#34;&gt;
+  &lt;meta name=&#34;twitter:title&#34; content=&#34;Weather&#34;&gt;
+  &lt;meta name=&#34;twitter:description&#34; content=&#34;It all started with a small talk about weather… This is early February in New Jersey. After a few historical cold days at around zero °F degrees, it shot right to the sixties.
+Walking my daughter out of her piano lesson, she commented on the weather:
+“This is crazy. This is exactly what’s been said about global warming. In a winter day, you got so cold, but the next day you got so warm.”&#34;&gt;
+
+
+    
+
+    &lt;link rel=&#34;canonical&#34; href=&#34;https://blog.huhaha.com/posts/weather/&#34;&gt;
+    &lt;link href=&#34;http://localhost:1313/style.min.2d921c18cf1ec555ffc03d59a8adc211c402c68c930c27d6a0c306ab175a8d09.css&#34; rel=&#34;stylesheet&#34;&gt;
+    &lt;link href=&#34;http://localhost:1313/code-highlight.min.706d31975fec544a864cb7f0d847a73ea55ca1df91bf495fd12a177138d807cf.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+    
+    &lt;link rel=&#34;apple-touch-icon&#34; sizes=&#34;180x180&#34; href=&#34;http://localhost:1313/icons/apple-touch-icon.png&#34;&gt;
+    &lt;link rel=&#34;icon&#34; type=&#34;image/png&#34; sizes=&#34;32x32&#34; href=&#34;http://localhost:1313/icons/favicon-32x32.png&#34;&gt;
+    &lt;link rel=&#34;icon&#34; type=&#34;image/png&#34; sizes=&#34;16x16&#34; href=&#34;http://localhost:1313/icons/favicon-16x16.png&#34;&gt;
+    &lt;link rel=&#34;mask-icon&#34; href=&#34;http://localhost:1313/icons/safari-pinned-tab.svg&#34;&gt;
+    &lt;link rel=&#34;shortcut icon&#34; href=&#34;http://localhost:1313/favicon.ico&#34;&gt;
+
+
+
+
+&lt;link rel=&#34;manifest&#34; href=&#34;https://blog.huhaha.com/site.webmanifest&#34;&gt;
+
+&lt;meta name=&#34;msapplication-config&#34; content=&#34;/browserconfig.xml&#34;&gt;
+&lt;meta name=&#34;msapplication-TileColor&#34; content=&#34;#2d89ef&#34;&gt;
+&lt;meta name=&#34;theme-color&#34; content=&#34;#434648&#34;&gt;
+
+    
+    &lt;link rel=&#34;icon&#34; type=&#34;image/svg+xml&#34; href=&#34;http://localhost:1313/icons/favicon.svg&#34;&gt;
+
+    
+    
+    
+&lt;/head&gt;
+&lt;body data-theme = &#34;auto&#34; class=&#34;notransition&#34;&gt;
+
+&lt;script src=&#34;http://localhost:1313/js/theme.min.8961c317c5b88b953fe27525839672c9343f1058ab044696ca225656c8ba2ab0.js&#34; integrity=&#34;sha256-iWHDF8W4i5U/4nUlg5ZyyTQ/EFirBEaWyiJWVsi6KrA=&#34;&gt;&lt;/script&gt;
+
+&lt;div class=&#34;navbar&#34; role=&#34;navigation&#34;&gt;
+    &lt;nav class=&#34;menu&#34; aria-label=&#34;Main Navigation&#34;&gt;
+        &lt;a href=&#34;https://blog.huhaha.com/&#34; class=&#34;logo&#34;&gt;
+            &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;25&#34; height=&#34;25&#34; 
+viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; 
+stroke-linejoin=&#34;round&#34; class=&#34;feather feather-home&#34;&gt;
+&lt;title&gt;Home&lt;/title&gt;
+&lt;path d=&#34;M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z&#34;&gt;&lt;/path&gt;
+&lt;polyline points=&#34;9 22 9 12 15 12 15 22&#34;&gt;&lt;/polyline&gt;
+&lt;/svg&gt;
+        &lt;/a&gt;
+        &lt;input type=&#34;checkbox&#34; id=&#34;menu-trigger&#34; class=&#34;menu-trigger&#34; /&gt;
+        &lt;label for=&#34;menu-trigger&#34;&gt;
+            &lt;span class=&#34;menu-icon&#34;&gt;
+                &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;25&#34; height=&#34;25&#34; stroke=&#34;currentColor&#34; fill=&#34;none&#34; viewBox=&#34;0 0 14 14&#34;&gt;&lt;title&gt;Menu&lt;/title&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M10.595 7L3.40726 7&#34;&gt;&lt;/path&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M10.5096 3.51488L3.49301 3.51488&#34;&gt;&lt;/path&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M10.5096 10.4851H3.49301&#34;&gt;&lt;/path&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M0.5 12.5V1.5C0.5 0.947715 0.947715 0.5 1.5 0.5H12.5C13.0523 0.5 13.5 0.947715 13.5 1.5V12.5C13.5 13.0523 13.0523 13.5 12.5 13.5H1.5C0.947715 13.5 0.5 13.0523 0.5 12.5Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;
+            &lt;/span&gt;
+        &lt;/label&gt;
+
+        &lt;div class=&#34;trigger&#34;&gt;
+            &lt;ul class=&#34;trigger-container&#34;&gt;
+                
+                
+                &lt;li&gt;
+                    &lt;a class=&#34;menu-link &#34; href=&#34;http://localhost:1313/&#34;&gt;
+                        Home
+                    &lt;/a&gt;
+                    
+                &lt;/li&gt;
+                
+                &lt;li&gt;
+                    &lt;a class=&#34;menu-link active&#34; href=&#34;http://localhost:1313/posts/&#34;&gt;
+                        Posts
+                    &lt;/a&gt;
+                    
+                &lt;/li&gt;
+                
+                &lt;li&gt;
+                    &lt;a class=&#34;menu-link &#34; href=&#34;&#34;&gt;
+                        
+                    &lt;/a&gt;
+                    
+                &lt;/li&gt;
+                
+                &lt;li class=&#34;menu-separator&#34;&gt;
+                    &lt;span&gt;|&lt;/span&gt;
+                &lt;/li&gt;
+                
+                
+            &lt;/ul&gt;
+            &lt;a id=&#34;mode&#34; href=&#34;#&#34;&gt;
+                &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;mode-sunny&#34; width=&#34;21&#34; height=&#34;21&#34; viewBox=&#34;0 0 14 14&#34; stroke-width=&#34;1&#34;&gt;
+&lt;title&gt;LIGHT&lt;/title&gt;&lt;g&gt;&lt;circle cx=&#34;7&#34; cy=&#34;7&#34; r=&#34;2.5&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/circle&gt;&lt;line x1=&#34;7&#34; y1=&#34;0.5&#34; x2=&#34;7&#34; y2=&#34;2.5&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;2.4&#34; y1=&#34;2.4&#34; x2=&#34;3.82&#34; y2=&#34;3.82&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;0.5&#34; y1=&#34;7&#34; x2=&#34;2.5&#34; y2=&#34;7&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;2.4&#34; y1=&#34;11.6&#34; x2=&#34;3.82&#34; y2=&#34;10.18&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;7&#34; y1=&#34;13.5&#34; x2=&#34;7&#34; y2=&#34;11.5&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;11.6&#34; y1=&#34;11.6&#34; x2=&#34;10.18&#34; y2=&#34;10.18&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;13.5&#34; y1=&#34;7&#34; x2=&#34;11.5&#34; y2=&#34;7&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;11.6&#34; y1=&#34;2.4&#34; x2=&#34;10.18&#34; y2=&#34;3.82&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;/g&gt;&lt;/svg&gt;
+                &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;mode-moon&#34; width=&#34;21&#34; height=&#34;21&#34; viewBox=&#34;0 0 14 14&#34; stroke-width=&#34;1&#34;&gt;
+&lt;title&gt;DARK&lt;/title&gt;&lt;g&gt;&lt;circle cx=&#34;7&#34; cy=&#34;7&#34; r=&#34;2.5&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/circle&gt;&lt;line x1=&#34;7&#34; y1=&#34;0.5&#34; x2=&#34;7&#34; y2=&#34;2.5&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;2.4&#34; y1=&#34;2.4&#34; x2=&#34;3.82&#34; y2=&#34;3.82&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;0.5&#34; y1=&#34;7&#34; x2=&#34;2.5&#34; y2=&#34;7&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;2.4&#34; y1=&#34;11.6&#34; x2=&#34;3.82&#34; y2=&#34;10.18&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;7&#34; y1=&#34;13.5&#34; x2=&#34;7&#34; y2=&#34;11.5&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;11.6&#34; y1=&#34;11.6&#34; x2=&#34;10.18&#34; y2=&#34;10.18&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;13.5&#34; y1=&#34;7&#34; x2=&#34;11.5&#34; y2=&#34;7&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;11.6&#34; y1=&#34;2.4&#34; x2=&#34;10.18&#34; y2=&#34;3.82&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;/line&gt;&lt;/g&gt;&lt;/svg&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/nav&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;wrapper post&#34;&gt;
+    &lt;main class=&#34;page-content&#34; aria-label=&#34;Content&#34;&gt;
+        &lt;article&gt;
+            &lt;header class=&#34;header&#34;&gt;
+                &lt;h1 class=&#34;header-title&#34;&gt;Weather&lt;/h1&gt;
+                
+                
+                
+                &lt;div class=&#34;post-meta&#34;&gt;
+                    &lt;time datetime=&#34;2019-02-04T00:00:00&amp;#43;00:00&#34; itemprop=&#34;datePublished&#34;&gt; 2019-02-04 &lt;/time&gt;
+                &lt;/div&gt;
+                
+            &lt;/header&gt;
+            
+            &lt;div class=&#34;page-content&#34;&gt;
+                &lt;h3 id=&#34;it-all-started-with-a-small-talk-about-weather&#34;&gt;It all started with a small talk about weather…&lt;/h3&gt;
+&lt;p&gt;This is early February in New Jersey.  After a few historical cold days at around zero °F degrees, it shot right to the sixties.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pages/about/</guid>
       
       <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;&gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
 &lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;

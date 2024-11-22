@@ -120,6 +120,10 @@ theme = "hugo-blog-awesome"
   TileColor = "#2d89ef" # default windows 10 blue tile color
 
 [[params.socialIcons]]
+name = "email"
+url = "mailto: xing.han@huhaha.com"
+
+[[params.socialIcons]]
 name = "github"
 url = "https://github.com/davidh3f"
 
