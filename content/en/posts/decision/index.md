@@ -1,11 +1,12 @@
 ---
-title: Just make a damn decision, any decision
+title: Decision
 date: 2022-06-28
 author: Xing Han
 description:
 tags:
   - random_thoughts
 ---
+## Just make a damn decision, any decision
 
 A couple of months back the wife took the kids to a local library and recycled many old kids books. Somehow one single book got missed and left in the car trunk.
 

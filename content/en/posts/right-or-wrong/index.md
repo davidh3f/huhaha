@@ -1,5 +1,5 @@
 ---
-title: Right or wrong – all about character
+title: Right or wrong
 date: 2020-12-14
 author: Xing Han
 description: 
@@ -7,7 +7,7 @@ tags:
   - random_thoughts
 ---
 
-
+## Right or wrong – all about character
 
 This is what I wrote in a previous blog, “So the criterion of making a choice is really all about right or wrong, rather than how you feel (like or dislike),” a message I’ve repeatedly given to my son and hope one day he could take it to heart 😀. This line seems to be a perfect prelude for a conversation I just had with my son more recently:
 

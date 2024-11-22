@@ -1,11 +1,12 @@
 ---
-title: My son, 11, asked me this million-dollar question, “what’s the meaning of life?”
+title: Meaning of life
 date: 2020-12-30
 author: Xing Han
 description: 
 tags:
   - random_thoughts
 ---
+## My son, 11, asked me this million-dollar question, “what’s the meaning of life?”
 
 Got another opportunity to “chat” with my son yesterday, which I would never get it wasted. 😀
 
